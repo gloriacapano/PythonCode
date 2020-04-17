@@ -1,4 +1,4 @@
-#### Authorization using user and password
+### Authorization using user and password
 flask_auth_username_password.py
 
 **Testing**
@@ -7,7 +7,7 @@ curl_password.sh
 
 
 
-#### Authorization using bearer token
+### Authorization using bearer token
 flask_auth_token.py 
 
 **Testing**
